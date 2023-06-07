@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **ABAP Projects**
 
-- 🌱 I’m currently learning **OData Services**
-
 - 💬 Ask me about **ABAP, dynamic programming**
 
 - 📫 How to reach me **muhammed.azman@erp.valantic.com**
