@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **ABAP Projects**
 
-- 💬 Ask me about **ABAP, dynamic programming**
-
 - 📫 How to reach me **muhammed.azman@klingelnberg.com**
 
 <h3 align="left">Connect with me:</h3>
